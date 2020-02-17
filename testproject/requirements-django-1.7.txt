@@ -3,6 +3,6 @@ django<1.8
 django-braces<1.9
 django-guardian<1.4
 django-mptt<0.8
-jsonfield<2
+jsonfield<4
 
 django-extensions<1.7
